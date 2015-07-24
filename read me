@@ -1,3 +1,10 @@
-1. Fibonacci Series 
-2.Permutations
-3. Convert
+1. Fibonacci Series (C)
+   This program writes the suite of fibonacci
+2.Permut (C and c++)
+  this program permuts two number
+3. ConvertFahrenheitCelsius ( C )
+  this program converts Fahrenheit-Celsius
+4.prod (C)
+  This program multiplies two number
+5.mul(C)
+  This program shows the multiplication table of a seized number
