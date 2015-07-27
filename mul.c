@@ -3,11 +3,11 @@
 
 int main()
 {
-int n;
-int i;
-int res;
+int n;// the number
+int i;//for the loop
+int res;//result
 printf("\n Enter a number");
-
+scanf("%d",&n);
 for (i=0,i<10,i++)
 {
 res = i*n;
